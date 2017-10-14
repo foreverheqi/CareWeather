@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Care_Weather"></dbname>
+    <version value="3"></version>
+    <list>
+        <mapping class="com.careweather.android.db.SelectCounty"></mapping>
+        <mapping class="com.careweather.android.entity.County"></mapping>
+    </list>
+</litepal>
